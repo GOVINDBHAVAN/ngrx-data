@@ -1,0 +1,6 @@
+npm i @ngrx/store --save
+ng add @ngrx/store
+
+npm install @ngrx/effects --save
+ng add @ngrx/effects@latest
+
